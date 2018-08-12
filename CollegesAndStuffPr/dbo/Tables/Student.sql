@@ -1,0 +1,1 @@
+﻿create table Student(sID float, sName nvarchar(255), GPA real, sizeHS float);

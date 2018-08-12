@@ -1,0 +1,1 @@
+﻿create table College(cName nvarchar(255), state nvarchar(255), enrollment float);

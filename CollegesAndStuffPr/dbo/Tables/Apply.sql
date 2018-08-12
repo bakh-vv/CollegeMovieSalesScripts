@@ -1,0 +1,1 @@
+﻿create table Apply(sID float, cName nvarchar(255), major nvarchar(255), decision nvarchar(255));
