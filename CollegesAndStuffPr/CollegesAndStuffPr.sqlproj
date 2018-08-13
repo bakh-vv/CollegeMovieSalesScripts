@@ -68,5 +68,8 @@
     <None Include="Scripts\CollegeSchema.sql" />
     <PostDeploy Include="Scripts\CollegeData.sql" />
     <None Include="Scripts\BasicSelect.sql" />
+    <None Include="Scripts\TableVarSets.sql" />
+    <None Include="Scripts\SubqueriesWhere.sql" />
+    <None Include="Scripts\JoinOperators.sql" />
   </ItemGroup>
 </Project>
