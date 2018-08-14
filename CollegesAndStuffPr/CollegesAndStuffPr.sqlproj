@@ -71,5 +71,8 @@
     <None Include="Scripts\TableVarSets.sql" />
     <None Include="Scripts\SubqueriesWhere.sql" />
     <None Include="Scripts\JoinOperators.sql" />
+    <Build Include="Scripts\DataManipulation.sql" />
+    <Build Include="Scripts\Aggregation.sql" />
+    <Build Include="Scripts\NullValues.sql" />
   </ItemGroup>
 </Project>
