@@ -7,6 +7,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CollegeMoviesSalesSQL", "Co
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CollegesAndStuffPr", "CollegesAndStuffPr\CollegesAndStuffPr.sqlproj", "{AC97931B-313D-4169-AD63-12AD7D11CAFE}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "StanfordMovieRatingPr", "StanfordMovieRatingPr\StanfordMovieRatingPr.sqlproj", "{1B27A794-9B20-43A9-A8C2-2FB08FD2FB85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,12 @@ Global
 		{AC97931B-313D-4169-AD63-12AD7D11CAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC97931B-313D-4169-AD63-12AD7D11CAFE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AC97931B-313D-4169-AD63-12AD7D11CAFE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1B27A794-9B20-43A9-A8C2-2FB08FD2FB85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B27A794-9B20-43A9-A8C2-2FB08FD2FB85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B27A794-9B20-43A9-A8C2-2FB08FD2FB85}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1B27A794-9B20-43A9-A8C2-2FB08FD2FB85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B27A794-9B20-43A9-A8C2-2FB08FD2FB85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B27A794-9B20-43A9-A8C2-2FB08FD2FB85}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
