@@ -64,6 +64,6 @@
     <None Include="Scripts\StanfordMovieRating.sql" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="Scripts\StanfordMovieRatingModifications.sql" />
+    <None Include="Scripts\StanfordMovieRatingModifications.sql" />
   </ItemGroup>
 </Project>
