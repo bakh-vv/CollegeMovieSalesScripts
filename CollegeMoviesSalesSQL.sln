@@ -11,6 +11,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "StanfordSocialNetworkPr", "
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "College_ConstraintsPr", "College_Constraints\College_ConstraintsPr.sqlproj", "{04DC6BEE-A647-4168-A98C-59D4675743DA}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "College_ViewsPr1", "College_Views1Pr\College_ViewsPr1.sqlproj", "{9025628A-A65B-42B0-A596-322AAC87CB68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,12 @@ Global
 		{04DC6BEE-A647-4168-A98C-59D4675743DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04DC6BEE-A647-4168-A98C-59D4675743DA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{04DC6BEE-A647-4168-A98C-59D4675743DA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9025628A-A65B-42B0-A596-322AAC87CB68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9025628A-A65B-42B0-A596-322AAC87CB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9025628A-A65B-42B0-A596-322AAC87CB68}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9025628A-A65B-42B0-A596-322AAC87CB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9025628A-A65B-42B0-A596-322AAC87CB68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9025628A-A65B-42B0-A596-322AAC87CB68}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
