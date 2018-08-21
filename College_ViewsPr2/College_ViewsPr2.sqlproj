@@ -65,4 +65,7 @@
   <ItemGroup>
     <None Include="Automatic View Modifications.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Authorization.sql" />
+  </ItemGroup>
 </Project>
