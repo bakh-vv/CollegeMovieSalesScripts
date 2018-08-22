@@ -17,6 +17,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "College_ViewsPr2", "College
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "College_MaterializedViewPr", "College_MaterializedViewPr\College_MaterializedViewPr.sqlproj", "{0FADE49B-70DA-44F9-BC72-303851903E5C}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SalesOLAP_Pr", "SalesOLAP_Pr\SalesOLAP_Pr.sqlproj", "{EF89346A-BD39-4270-A187-393C6EFCFE86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +67,12 @@ Global
 		{0FADE49B-70DA-44F9-BC72-303851903E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FADE49B-70DA-44F9-BC72-303851903E5C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0FADE49B-70DA-44F9-BC72-303851903E5C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EF89346A-BD39-4270-A187-393C6EFCFE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF89346A-BD39-4270-A187-393C6EFCFE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF89346A-BD39-4270-A187-393C6EFCFE86}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EF89346A-BD39-4270-A187-393C6EFCFE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF89346A-BD39-4270-A187-393C6EFCFE86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF89346A-BD39-4270-A187-393C6EFCFE86}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
