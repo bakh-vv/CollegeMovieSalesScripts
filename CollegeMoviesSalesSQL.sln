@@ -19,6 +19,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "College_MaterializedViewPr"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SalesOLAP_Pr", "SalesOLAP_Pr\SalesOLAP_Pr.sqlproj", "{EF89346A-BD39-4270-A187-393C6EFCFE86}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Recursion", "Recursion\Recursion.sqlproj", "{ACC062D0-6AAF-406B-BC0F-DC4B80E324C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,12 @@ Global
 		{EF89346A-BD39-4270-A187-393C6EFCFE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF89346A-BD39-4270-A187-393C6EFCFE86}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EF89346A-BD39-4270-A187-393C6EFCFE86}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{ACC062D0-6AAF-406B-BC0F-DC4B80E324C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC062D0-6AAF-406B-BC0F-DC4B80E324C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC062D0-6AAF-406B-BC0F-DC4B80E324C1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ACC062D0-6AAF-406B-BC0F-DC4B80E324C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC062D0-6AAF-406B-BC0F-DC4B80E324C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC062D0-6AAF-406B-BC0F-DC4B80E324C1}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
